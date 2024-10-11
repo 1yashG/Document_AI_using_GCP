@@ -7,7 +7,7 @@ Following components are used
 * Cloud Storage
 * Cloud Run
 
-![Architecture](https://github.com/Ankit01010/Document_AI_using_GCP/blob/master/Architecture.png)
+
 
 ### Create Service Account
 1. Create Service Account
